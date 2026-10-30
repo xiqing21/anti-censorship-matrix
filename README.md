@@ -2,6 +2,10 @@
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Protocol](https://img.shields.io/badge/protocols-Hysteria2%20%7C%20VLESS--Reality%20%7C%20VMess-success)](https://github.com/xiqing21/anti-censorship-matrix)
+
+<p align="center">
+  <img src="cover.jpg" width="100%" alt="Anti-Censorship Matrix Architecture"/>
+</p>
 [![Antigravity Skill](https://img.shields.io/badge/agent--skill-compatible-orange)](SKILL.md)
 
 生产级、跨多云厂商互备（Oracle 永久免费 + 搬瓦工 + 绿云等）、多协议容灾（Hysteria 2 UDP 端口跳跃 + VLESS-Reality/TLS + VMess）的自建科学上网体系。
